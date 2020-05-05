@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?h_r=next-challenge&h_v=zen
+# https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/
 
 def runner_up(n, arr):
     """
